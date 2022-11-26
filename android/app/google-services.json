@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "894162804467",
+    "project_id": "do-pack-shop",
+    "storage_bucket": "do-pack-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894162804467:android:332513dee94224c093a186",
+        "android_client_info": {
+          "package_name": "com.example.do_pack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894162804467-2a93rsa1mn4vlj2jsk3bms0a2bl9fve5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.do_pack",
+            "certificate_hash": "799588ce0169c21d194dfd86501b3767e2894778"
+          }
+        },
+        {
+          "client_id": "894162804467-s243tjom6b2505ku7qpksqihjo6ieugd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeMc_xMHM84ZFYwKcHjfXdvEQ9ULvRl2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894162804467-s243tjom6b2505ku7qpksqihjo6ieugd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

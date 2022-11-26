@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\Development\\FYP\\do_pack\\build\\connectivity\\intermediates\\merged_res\\release\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\3f8fb4da84fe36fdbb1fe84f28c48dd0\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\Development\\FYP\\do_pack\\build\\connectivity\\intermediates\\merged_res\\release\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\3f8fb4da84fe36fdbb1fe84f28c48dd0\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\Development\\FYP\\do_pack\\build\\connectivity\\intermediates\\merged_res\\release\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\3f8fb4da84fe36fdbb1fe84f28c48dd0\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\Development\\FYP\\do_pack\\build\\connectivity\\intermediates\\merged_res\\release\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\3f8fb4da84fe36fdbb1fe84f28c48dd0\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Development\\FYP\\do_pack\\build\\connectivity\\intermediates\\merged_res\\release\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\3f8fb4da84fe36fdbb1fe84f28c48dd0\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    }
+]
